@@ -1,0 +1,20 @@
+0	1998	France	7	1	171	15
+1	1998	Brazil	1	2	171	14
+2	1998	Croatia	21	3	171	11
+3	1998	Netherlands	12	4	171	13
+4	2002	Brazil	3	1	161	18
+5	2002	Germany	11	2	161	14
+6	2002	Turkey	23	3	161	10
+7	2002	Korea Republic	43	4	161	8
+8	2006	Italy	12	1	147	12
+9	2006	France	5	2	147	9
+10	2006	Germany	16	3	147	14
+11	2006	Portugal	10	4	147	7
+12	2010	Spain	2	1	145	8
+13	2010	Netherlands	3	2	145	12
+14	2010	Germany	5	3	145	16
+15	2010	Uruguay	25	4	145	11
+16	2014	Germany	2	1	171	29
+17	2014	Argentina	3	2	171	10
+18	2014	Netherlands	8	3	171	20
+19	2014	Brazil	11	4	171	15
